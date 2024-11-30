@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![lambda](./lambda.png)
+
 <!--
 **dominik-muc/dominik-muc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
